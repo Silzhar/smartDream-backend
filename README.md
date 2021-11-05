@@ -3,8 +3,7 @@
 # Firebase 
 - https://firebase.google.com/docs/admin/setup
 
-# Postman
-## Collection in .json
+# Postman Collection in .json
 - https://www.postman.com/collections/1bfef1a84bbfaa7681a7
 
 ###  POST

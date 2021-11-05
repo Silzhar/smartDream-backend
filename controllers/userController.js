@@ -1,9 +1,8 @@
 'use strict'
 
 const firebase = require('../db')
-const User = require('../models/user')
 const firestore = firebase.firestore()
-
+const User = require('../models/user')
 
 const addUser = async (req, res, next) => {
     try {

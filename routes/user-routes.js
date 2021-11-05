@@ -8,6 +8,7 @@ const { addUser,
 
 const router = express.Router()
 
+
 router.post('/user', addUser)
 router.get('/user/:id', getUser)
 router.get('/users', getAllUsers)
